@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Building.cs" />
+    <Compile Remove="Factory.cs" />
+    <Compile Remove="FailSoftArray.cs" />
+    <Compile Remove="FailSoftArray2D.cs" />
+    <Compile Remove="Min.cs" />
+    <Compile Remove="RangeArray.cs" />
+    <Compile Remove="Rect.cs" />
+    <Compile Remove="SimpProp.cs" />
+    <Compile Remove="StackDemo.cs" />
+    <Compile Remove="ThreeD.cs" />
+  </ItemGroup>
+
+</Project>
