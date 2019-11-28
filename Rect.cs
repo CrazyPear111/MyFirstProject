@@ -4,7 +4,7 @@ namespace ConsoleApp1
 {
     class Rect
     {
-        int width, height;
+        int width, height, bitches;
 
         public Rect(int width, int height)
         {
