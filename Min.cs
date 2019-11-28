@@ -23,7 +23,7 @@ namespace ConsoleApp1
 		public void Meth()
 		{
 			int x=0;
-			x++;
+			x--;
 		}
     }
 }
