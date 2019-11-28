@@ -20,5 +20,10 @@ namespace ConsoleApp1
             }
             return m;
         }
+		public void Meth()
+		{
+			int x=0;
+			x++;
+		}
     }
 }
