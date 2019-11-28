@@ -22,6 +22,7 @@ namespace ConsoleApp1
         }
 		public void Meth()
 		{
+			Console.WriteLine("yet master branch");
 			Console.WriteLine("hello, new branch");
 		}
     }
